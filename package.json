@@ -12,7 +12,7 @@
     "@backmarket/design-system": "^37.0.0",
     "@nuxtjs/tailwindcss": "^4.2.1",
     "autoprefixer": "^10.4.2",
-    "postcss": "^8.4.5",
+    "postcss": "^8.2.13",
     "tailwindcss": "^3.0.15"
   }
 }
